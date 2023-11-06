@@ -1,1 +1,1 @@
-/Users/wangshuang/Code/rust-learn/B站软件工艺师/guessing_game/target/debug/guessing_game: /Users/wangshuang/Code/rust-learn/B站软件工艺师/guessing_game/src/main.rs
+/Users/wangshuang/Code/rust-learn/rust-lang-book/guessing_game/target/debug/guessing_game: /Users/wangshuang/Code/rust-learn/rust-lang-book/guessing_game/src/main.rs
