@@ -169,15 +169,34 @@ fn main() {
   // }
   // println!("End counter = {counter}");
 
-  let mut number = 3;
+  // let mut number = 3;
 
-  while number != 0 {
-    println!({"{number!}"});
+  // while number != 0 {
+  //   println!({"{number!}"});
 
-    number -= 3;
+  //   number -= 3;
+  // }
+
+  // println!("LIFTOFF!");
+  // let a = [10, 20, 30, 40, 50];
+  // let mut index = 0;
+
+  // while index < 5 {
+  //   println!("the value is {}", a[index]);
+  //   index += 1;
+  // }
+
+  // let a = [10, 20, 30, 40, 50];
+  
+  // for el in a {
+  //   println!("the value is: {}", el);
+  // }
+
+  for number in (1..4).rev() {
+    println!("{number}");
   }
+  println!("LIFTOFF!!!");
 
-  println!("LIFTOFF!");
 }
 
 /*
